@@ -1,21 +1,26 @@
 {
-  "name": "serjeel_ranjan",
-  "version": "0.0.4",
-  "description": "Let's interact to know each other more",
-  "homepage": "https://serjeel-ranjan.netlify.com/",
-  "type": "module",
-  "main": "index.js",
-  "scripts": {
-    "start": "node ."
-  },
-  "bin": "./index.js",
-  "dependencies": {
-    "chalk": "^4.1.2",
-    "chalk-animation": "^1.3.0",
-    "figlet": "^1.5.2",
-    "gradient-string": "^2.0.0",
-    "inquirer": "^8.2.0",
-    "nanospinner": "^1.0.0",
-    "yosay": "^2.0.2"
-  }
+	"name": "serjeel_ranjan",
+	"version": "0.0.5",
+	"author": "Serjeel Ranjan",
+	"description": "Let's interact to know each other more",
+	"homepage": "https://serjeel-ranjan.netlify.com/",
+	"type": "module",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Serjeel-Ranjan-911/Serjeel_Ranjan_npx"
+	},
+	"scripts": {
+		"start": "node ."
+	},
+	"bin": "./index.js",
+	"dependencies": {
+		"chalk": "^4.1.2",
+		"chalk-animation": "^1.3.0",
+		"figlet": "^1.5.2",
+		"gradient-string": "^2.0.0",
+		"inquirer": "^8.2.0",
+		"nanospinner": "^1.0.0",
+		"yosay": "^2.0.2"
+	}
 }
