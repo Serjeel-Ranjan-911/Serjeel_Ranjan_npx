@@ -2,6 +2,10 @@
 
 A super fancy CLI tool. 
 
+![screenhshot1](./assets/screen1.png)
+![screenhshot2](./assets/screen2.png)
+![screenhshot3](./assets/screen3.png)
+
 Try it now
 
 ```
