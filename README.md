@@ -1,15 +1,11 @@
-# JavaScript Millionaire CLI Tool
+# Serjeel Ranjan's CLI Tool
 
 A super fancy CLI tool. 
 
-Watch the full [Node.js CLI Tutorial](https://youtu.be/_oHByo8tiEY) video on YouTube. 
-
-
-
-## Take the Quiz
+Try it now
 
 ```
-npx firequiz
+npx serjeel_ranjan -y
 ```
 
 ## Packages Used
@@ -20,8 +16,3 @@ npx firequiz
 [chalk-animation](https://github.com/bokub/chalk-animation) |
 [figlet](https://github.com/patorjk/figlet.js) |
 [nanospinner](https://github.com/usmanyunusov/nanospinner)
-
-
-```sh
-npm i chalk chalk-animation figlet gradient-string inquirer nanospinner
-```
