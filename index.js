@@ -79,11 +79,11 @@ function EndTheQuiz() {
 
 		console.log(chalk.blue(`Our thoughts match `) + chalk.red(`${score}%`));
 
-		if (score >= 90) {
+		if (score >= 85) {
 			console.log(yosay(`${chalk.blue("Are you my clone?")} `));
-		} else if (score >= 80) {
+		} else if (score >= 75) {
 			console.log(yosay(`${chalk.blue("We have so much in common?")} `));
-		} else if (score >= 70) {
+		} else if (score >= 65) {
 			console.log(yosay(`${chalk.blue("We can get along pretty easily")} `));
 		} else {
 			console.log(yosay(`${chalk.blue("Nice to meet you!")}`));
