@@ -90,7 +90,7 @@ function EndTheQuiz() {
 		}
 
 		console.log("Now that we have met, you can start conversation with me here ⬇\n");
-		console.log(chalk.yellowBright("LinkedIn - ") + "https://www.linkedin.com/in/serjeel-ranjan-0331b31ab/")
+		console.log(chalk.yellowBright("LinkedIn - ") + "https://www.linkedin.com/in/serjeel-ranjan/")
 		console.log(chalk.yellowBright("Twitter - ") + "https://twitter.com/r_serjeel/"+"\n");
 
 		console.log(chalk.greenBright("Visit my website - ") + "https://serjeel-ranjan.netlify.app/")
